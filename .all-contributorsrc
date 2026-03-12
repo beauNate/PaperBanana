@@ -142,6 +142,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "ruiguo-bio",
+      "name": "Rui Guo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20548903?v=4",
+      "profile": "https://github.com/ruiguo-bio",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "commitType": "docs"
